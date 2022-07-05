@@ -1,0 +1,205 @@
+body{
+    font-family: 'Archivo', sans-serif;
+    margin: 0;
+
+}
+
+
+.healthy-food{
+    display: flex;
+    margin-bottom: 150px;
+    
+
+}
+
+.title h1{
+    font-weight: 700;
+    font-size: 45px;
+    color: rgb(90, 87, 87);
+
+
+}
+
+.title p{
+    margin-bottom: 50px;
+
+}
+
+.title a{
+    text-decoration: none;
+    background-image: linear-gradient(rgba(255, 153, 0, 0.99) ,tomato);
+    padding: 10px 25px;
+    border-radius: 50px ;
+    color: white;
+    font-size: 20px;
+    
+}
+
+span{
+    color: rgb(255, 145, 0);
+}
+
+.title{
+
+    width: 50%;
+ 
+    margin-right: 100px;
+    margin-left: 60px;
+    margin-top: 60px;
+
+}
+
+.img1 img{
+    width: 100%;
+
+ 
+
+}
+
+.img1{
+    width: 50%;
+}
+
+
+
+.about-me{
+    display: flex;
+    background-image: url(images/shapes/Frame\ 58.jpg);
+
+
+}
+
+.about-img{
+    width: 50%;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.about-img img{
+    width: 79%;
+}
+
+.about-title{
+    width: 50%;
+    text-align: justify;
+    margin-right: 50px;
+    padding: 50px;
+}
+
+.about-title h1{
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 50px;
+    margin-top: 40px;
+    color: rgb(90, 87, 87);
+
+}
+
+.about-title p{
+    white-space: 0px;
+    color: rgb(90, 87, 87);
+    margin-bottom: 60px;
+    
+}
+
+.about-title a{
+    background-image: linear-gradient(rgba(255, 153, 0, 0.99) ,tomato);
+    text-decoration: none;
+    border-radius: 30px;
+    padding: 10px 25px;
+    border-radius: 50px ;
+    color: white;
+    font-size: 20px;
+} 
+
+
+.my-recipi{
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+
+}
+
+.recipi-des p{
+    
+    margin: 40px 160px;
+    color: rgb(90, 87, 87);;
+}
+.recipi-des h1{
+    font-size: 30px;
+    font-weight: 800;
+    color: rgb(90, 87, 87);
+    margin-top: 50px;
+
+}
+
+
+.recipi-box{
+    display: flex;
+    padding: 10px;
+    margin-bottom: 60px;
+
+}
+
+.box1{
+    width: 50%;
+    margin: 20px;
+    box-shadow: 5px 10px 20px rgb(182, 180, 180);
+    padding: 20px;
+    border-radius: 20px;
+}
+
+.box1 img{
+    width: 100%;
+    text-align: center;
+    height: 210px;
+    
+}
+
+
+.social-growth{
+    display: flex;
+    margin: 30px;
+    padding: 25px;
+    border-radius: 10px;
+    margin-bottom: 90px;
+    box-shadow: 5px 5px 20px rgb(209, 207, 207);
+}
+
+
+.sub{
+    margin: 0 auto;
+}
+
+.sub h1{
+    font-size: 25px;
+    font-weight: 800;
+    color: rgb(40, 40, 40);
+}
+
+.sub p{
+    font-size: 12px;
+    color: rgb(67, 65, 65);
+}
+
+
+footer{
+    background-color: black;
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+.footer-des h1{
+    font-size: 25px;
+    font-weight: 700;
+    color: rgb(85, 82, 82);
+}
+
+.footer-des p{
+    font-size: 11px;
+    color: rgb(234, 236, 239);
+}
+
+
